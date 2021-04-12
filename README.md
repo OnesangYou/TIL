@@ -14,6 +14,7 @@
 
 - [20190926 / Dialog vs DialogFragment](https://github.com/OnesangYou/TIL/blob/main/android/20190926.md)
 - [20210225 / Android kernel vs Linux kernel](https://github.com/OnesangYou/TIL/blob/main/android/20210225.md)
+- [20210412 / Android NDK vs AOSP Build System](https://github.com/OnesangYou/TIL/blob/main/android/20210412.md)
 
 ---
 
